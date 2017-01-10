@@ -1,0 +1,8 @@
+{
+  "name": "001",
+  "params": {
+    "param1": "test",
+    "param2": false,
+    "param3:": 123
+  }
+}

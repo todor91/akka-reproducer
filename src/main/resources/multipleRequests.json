@@ -1,0 +1,29 @@
+[{
+  "name": "001",
+  "params": {
+    "param1": "param1",
+    "param2": false,
+    "param3:": 123
+  }
+}, {
+  "name": "002",
+  "params": {
+    "param1": "param1-test",
+    "param2": true,
+    "param3:": 234
+  }
+}, {
+  "name": "003",
+  "params": {
+    "param1": "p1",
+    "param2": true,
+    "param3:": 111
+  }
+}, {
+  "name": "004",
+  "params": {
+    "param1": "param1-testing",
+    "param2": false,
+    "param3:": 345
+  }
+}]
